@@ -9,7 +9,13 @@ then i typed `/challenge/run`.
 After that i got the flag and pasted in the pwn.college.
 
 ## Code
-`Correct!!!
+`hacker@paths~position-thy-self:~$ /challenge/run
+Incorrect...
+You are not currently in the /home directory.
+Please use the `cd` utility to change directory appropriately.
+hacker@paths~position-thy-self:~$ cd /home
+hacker@paths~position-thy-self:/home$ /challenge/run
+Correct!!!
 /challenge/run is an absolute path, invoked from the right directory!
 Here is your flag:
 pwn.college{kkU799Int1DR2hJIxoodJR6ppMQ.dZDN1QDL5EjN0czW}`
