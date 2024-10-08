@@ -2,7 +2,7 @@
 
 ## Procedure
 i started the challenge `pwn.college`
-then i typed `/challenge/files`.
+then i typed `cd /challenge/files`.
 after `/challenge/run [cep]*`.
 the i pasted my flag to the website.
 
