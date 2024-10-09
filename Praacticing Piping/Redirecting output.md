@@ -2,7 +2,7 @@
 
 ## Procedure
 i started the challenge `pwn.college`
-then i typed `echo PWN > COLLEGE` To redirect the file colege.
+then i typed `echo PWN > COLLEGE` To redirect the file college.
 the i pasted my flag to the website.
 
 ## Code
