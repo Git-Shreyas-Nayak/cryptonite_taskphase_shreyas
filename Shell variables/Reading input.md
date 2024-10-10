@@ -5,7 +5,7 @@ i started the challenge pwn.college
 as per the question.
 then i typed `read PWN`
 and inputted `COLLEGE`
-the i pasted my flag to the website.
+then i pasted my flag to the website.
 
 ## Code
 `hacker@variables~reading-input:~$ read PWN
