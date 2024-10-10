@@ -4,7 +4,7 @@
 i started the challenge `pwn.college`
 as per the question.
 then i typed `PWN="COLLEGE YEAH"`
-the i pasted my flag to the website.
+then i pasted my flag to the website.
 
 ## Code
 `hacker@variables~multi-word-variables:~$ PWN="COLLEGE YEAH"
