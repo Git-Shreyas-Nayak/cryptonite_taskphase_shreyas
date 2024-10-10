@@ -6,7 +6,7 @@ as per the question.
 then i typed `env pwn`
 then i got a list of pwn variable values.
 so to search in them i used grep `env | grep pwn`
-the i pasted my flag to the website.
+then i pasted my flag to the website.
 
 ## Code
 `hacker@variables~printing-exported-variables:~$ env FLAG
