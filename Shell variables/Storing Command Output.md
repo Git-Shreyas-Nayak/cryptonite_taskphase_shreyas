@@ -6,7 +6,7 @@ as per the question.
 then i typed `PWN=$(/challenge/run)`
 so here the pwn stores te flag that is runned in /challenge/run
 so to see whats inside the variable i typed `echo "$PWN"`
-the i pasted my flag to the website.
+then i pasted my flag to the website.
 
 ## Code
 `hacker@variables~storing-command-output:~$ PWN=$(/challenge/run)
