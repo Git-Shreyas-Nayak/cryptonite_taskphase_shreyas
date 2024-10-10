@@ -6,7 +6,7 @@ as per the question.
 then i typed `PWN=COLLEGE`
 then i typed `export PWN` this to  export and then typed `COLLEGE=PWN`.
 to run the file i typed `/challenge/run`.
-the i pasted my flag to the website.
+then i pasted my flag to the website.
 
 ## Code
 `hacker@variables~exporting-variables:~$ PWN=COLLEGE
