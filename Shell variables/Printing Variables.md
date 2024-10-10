@@ -4,7 +4,7 @@
 i started the challenge `pwn.college`
 then i typed `echo $FLAG`
 as per the question.
-the i pasted my flag to the website.
+then i pasted my flag to the website.
 
 ## Code
 `hacker@variables~printing-variables:~$ echo $FLAG
