@@ -1,4 +1,4 @@
-# bandit 9 --> 10
+# Level 9 --> 10
 
 ## Procedure
 i started the challenge by reading in OverTheWire.
