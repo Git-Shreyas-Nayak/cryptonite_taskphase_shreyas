@@ -1,4 +1,4 @@
-# bandit 7 --> 8
+# Level 7 --> 8
 
 ## Procedure
 i started the challenge by reading in OverTheWire.
