@@ -3,7 +3,7 @@
 ## Procedure
 i started the challenge by reading in OverTheWire.
 then i went to the terminal and connected to it.
-by putting ssh bandit @bandit3.labs.overthewire.org -p 2220 
+by putting `ssh bandit @bandit3.labs.overthewire.org -p 2220` 
 and password as `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
 then i typed `cd inhere`.
 ater that `ls -a`. this is to find out hidden files.
