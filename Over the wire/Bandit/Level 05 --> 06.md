@@ -1,4 +1,4 @@
-# bandit 5 --> 6
+# Level 5 --> 6
 
 ## Procedure
 i started the challenge by reading in OverTheWire.
