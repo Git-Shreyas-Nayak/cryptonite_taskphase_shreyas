@@ -3,7 +3,7 @@
 ## Procedure
 i started the challenge by reading in OverTheWire.
 then i went to the terminal and connected to it.
-by putting ssh bandit `@bandit8.labs.overthewire.org -p 2220` 
+by putting `ssh bandit @bandit8.labs.overthewire.org -p 2220` 
 and password as `dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc`.
 then i typed `sort data.txt | uniq -u`.
 this sorts data.txt to all  the lines which are unique.
