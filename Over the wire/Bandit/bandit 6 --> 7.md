@@ -3,7 +3,7 @@
 ## Procedure
 i started the challenge by reading in OverTheWire.
 then i went to the terminal and connected to it.
-by putting ssh bandit `@bandit6.labs.overthewire.org -p 2220` 
+by putting `ssh bandit @bandit6.labs.overthewire.org -p 2220` 
 and password as `HWasnPhtq9AVKe0dmk45nxy20cvUa6EG`
 then i typed `find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null`.
 then i catted out with the address as `cat /var/lib/dpkg/info/bandit7.password`
