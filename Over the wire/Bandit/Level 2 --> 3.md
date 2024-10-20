@@ -3,7 +3,7 @@
 ## Procedure
 i started the challenge by reading in OverTheWire.
 then i went to the terminal and connected to it.
-by putting ssh bandit `@bandit2.labs.overthewire.org -p 2220` 
+by putting `ssh bandit @bandit2.labs.overthewire.org -p 2220` 
 and password as `MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`.
 then i typed `ls`. this lists out all the file.
 after that i catted out `cat "spaces in this filename"`
