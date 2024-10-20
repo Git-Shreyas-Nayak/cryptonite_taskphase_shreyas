@@ -1,11 +1,15 @@
 # Level 2 --> 3
 
 ## Procedure
-I started the challenge<br>
-then i used `ls` to find the file, 
-after that i used `cat "spaces in this filename"`
-here `""` are important to use.
-got the password.
+i started the challenge by reading in OverTheWire.
+then i went to the terminal and connected to it.
+by putting ssh bandit @bandit.labs.overthewire.org -p 2220 
+and password as `MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`.
+then i typed `ls`. this lists out all the file.
+after that i catted out `cat "spaces in this filename"`
+then i noted the password `MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`.
+after that i typed exit to get of the shell.
+
 
 ## bash
 `bandit2@bandit:~$ ls
