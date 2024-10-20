@@ -3,7 +3,7 @@
 ## Procedure
 i started the challenge by reading in OverTheWire.
 then i went to the terminal and connected to it.
-by putting ssh bandit @bandit4.labs.overthewire.org -p 2220 
+by putting ssh bandit `@bandit4.labs.overthewire.org -p 2220` 
 and password as `2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ`
 then i typed `file inhere/* | grep text`.
 then i catted out the file7 `cat ./inhere/-file07`
