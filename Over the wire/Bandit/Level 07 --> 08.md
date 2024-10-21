@@ -12,8 +12,10 @@ after that i typed exit to get of the shell.
 
 
 ## bash
-`bandit7@bandit:~$ grep "millionth" data.txt
+```
+bandit7@bandit:~$ grep "millionth" data.txt
 millionth       dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc`
+```
 
 ## Reference
 Didnt use
