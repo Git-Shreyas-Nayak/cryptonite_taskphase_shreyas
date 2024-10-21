@@ -3,7 +3,7 @@
 ## Procedure
 i started the challenge by reading in OverTheWire.
 then i went to the terminal and connected to it.
-by putting ` ssh bandit @bandit12.labs.overthewire.org -p 2220`
+by putting ` ssh bandit12@bandit.labs.overthewire.org -p 2220`
 and password as ``
 then i typed `cp data.txt /tmp/challenge` to copy it .
 then i went inside using cd cmd.
