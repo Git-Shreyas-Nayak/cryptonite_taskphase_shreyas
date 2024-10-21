@@ -3,7 +3,7 @@
 ## Procedure
 i started the challenge by reading in OverTheWire.
 then i went to the terminal and connected to it.
-by putting ` ssh bandit @bandit10.labs.overthewire.org -p 2220`
+by putting ` ssh bandit10@bandit.labs.overthewire.org -p 2220`
 and password as `FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey`
 then i typed `base64 -d data.txt`.
 this uses base64 decoder for the dat.txt.
