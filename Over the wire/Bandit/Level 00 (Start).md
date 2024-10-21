@@ -8,7 +8,8 @@ and i put the password as `bandit0`.
 
 
 ## Bash
-`shreyasnayak@ShreyasPC:~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+shreyasnayak@ShreyasPC:~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -101,6 +102,7 @@ discord or IRC.
   For support, questions or comments, contact us on discord or IRC.
 
   Enjoy your stay!`
+```
 
   ## references
   Nothing
