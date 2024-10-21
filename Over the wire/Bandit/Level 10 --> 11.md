@@ -11,8 +11,10 @@ then i noted the password `dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr`.
 after that i typed exit to get of the shell.
 
 ## bash
-`bandit10@bandit:~$ base64 -d data.txt
+```
+bandit10@bandit:~$ base64 -d data.txt
 The password is dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr`
+```
 
 ## Reference
 Copilot 
