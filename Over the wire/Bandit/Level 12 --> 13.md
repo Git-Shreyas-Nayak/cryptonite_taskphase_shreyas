@@ -19,7 +19,8 @@ then i noted the password `FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn`.
 after that i typed exit to get of the shell.
 
 ## bash
-`bandit12@bandit:~$ cp data.txt /tmp/challenge
+```
+bandit12@bandit:~$ cp data.txt /tmp/challenge
 bandit12@bandit:~$ cd /tmp/challenge
 bandit12@bandit:/tmp/challenge$ ls
 data  data.tar  data.txt
@@ -83,6 +84,7 @@ bandit12@bandit:/tmp/challenge$ file data
 data: ASCII text
 bandit12@bandit:/tmp/challenge$ cat data
 The password is FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn`
+```
 
 ## Reference
 copilot 
