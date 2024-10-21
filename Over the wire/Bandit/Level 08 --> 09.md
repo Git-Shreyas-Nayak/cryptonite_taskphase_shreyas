@@ -12,8 +12,10 @@ after that i typed exit to get of the shell.
 
 
 ## bash
-`bandit8@bandit:~$ sort data.txt | uniq -u
+```
+bandit8@bandit:~$ sort data.txt | uniq -u
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM`
+```
 
 ## Reference
 Copilot
