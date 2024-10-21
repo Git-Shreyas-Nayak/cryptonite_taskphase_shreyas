@@ -3,7 +3,7 @@
 ## Procedure
 i started the challenge by reading in OverTheWire.
 then i went to the terminal and connected to it.
-by putting `ssh bandit @bandit5.labs.overthewire.org -p 2220` 
+by putting `ssh bandit5@bandit.labs.overthewire.org -p 2220` 
 and password as `4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw`
 then i typed `find . -type f -size 1033c -exec file {} \; | grep -i 'text' | grep -v 'executable'`.
 this finds the file which has size 1033c which is not executable and is in text.
