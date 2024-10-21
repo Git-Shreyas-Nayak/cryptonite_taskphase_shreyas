@@ -12,10 +12,12 @@ after that i typed exit to get of the shell.
 
 
 ## bash
-`bandit2@bandit:~$ ls
+```
+bandit2@bandit:~$ ls
 spaces in this filename
 bandit2@bandit:~$ cat "spaces in this filename"
-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+```
 
 ## Reference
 Nothing
