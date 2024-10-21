@@ -4,7 +4,7 @@
 i started the challenge by reading in OverTheWire.
 then i went to the terminal and connected to it.
 by putting `ssh bandit13@bandit.labs.overthewire.org -p 2220`
-and password as ` `.
+and password as `FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn`.
 then i typed `ssh -i sshkey.private bandit14@localhost -p 2220`.
 then i catted out the file. as `cat /etc/bandit_pass/bandit14`.
 then i noted the password `MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS`.
