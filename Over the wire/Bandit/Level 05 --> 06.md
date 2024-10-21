@@ -12,11 +12,13 @@ then i noted the password `HWasnPhtq9AVKe0dmk45nxy20cvUa6EG`.
 after that i typed exit to get of the shell.
 
 ## bash
-`bandit5@bandit:~$ cd inhere
+```
+bandit5@bandit:~$ cd inhere
 bandit5@bandit:~/inhere$ find . -type f -size 1033c -exec file {} \; | grep -i 'text' | grep -v 'executable'
 ./maybehere07/.file2: ASCII text, with very long lines (1000)
 bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG`
+```
 
 ## Reference
 Copilot
