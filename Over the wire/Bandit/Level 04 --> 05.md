@@ -11,10 +11,12 @@ then i noted the password `4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw`.
 after that i typed exit to get of the shell.
 
 ## bash
-`bandit4@bandit:~$ file inhere/* | grep text
+```
+bandit4@bandit:~$ file inhere/* | grep text
 inhere/-file07: ASCII text
 bandit4@bandit:~$ cat ./inhere/-file07
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw`
+```
 
 ## Reference 
 Copilot
