@@ -10,8 +10,10 @@ then i noted the password `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`.
 after that i typed `exit` to get of the shell.
 
 ## Bash
-`bandit1@bandit:~$ cat ./-
+```
+bandit1@bandit:~$ cat ./-
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
+```
 
 ## References
 Nothing
