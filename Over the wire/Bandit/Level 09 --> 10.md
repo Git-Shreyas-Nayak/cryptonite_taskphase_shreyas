@@ -10,13 +10,15 @@ then i noted the password `FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey`.
 after that i typed exit to get of the shell.
 
 ## bash
-`bandit9@bandit:~$ grep "==" data.txt
+```
+bandit9@bandit:~$ grep "==" data.txt
 grep: data.txt: binary file matches
 bandit9@bandit:~$ strings data.txt | grep '======'
 }========== the
 3JprD========== passwordi
 ~fDV3========== is
 D9========== FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey`
+```
 
 ## Reference
 Copilot
